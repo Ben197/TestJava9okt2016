@@ -7,6 +7,7 @@ public class StartOp {
 		HulpFile hf = new HulpFile();
 		System.out.println("wijziging 1");
 		System.out.println("Uitkomst: " + hf.testDezeFile(1, 3));
+		System.out.println("wijziging 2");
 	}
 
 }
